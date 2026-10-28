@@ -1,0 +1,12 @@
+pepe
+5.3
+luis
+2.3
+pablo
+8.0
+ana
+3.0
+rosa
+4.0
+lucia
+9.0

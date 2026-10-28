@@ -1,0 +1,5 @@
+# Compilados Java / Eclipse
+bin/
+out/
+*.class
+.metadata/
